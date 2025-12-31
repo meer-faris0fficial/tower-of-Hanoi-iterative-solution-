@@ -131,7 +131,7 @@ Bit-based mathematical patterns in algorithms
 
 🛠️ Limitations
 
-Maximum number of disks is 10 (array size limit)
+Maximum number of disks is 10 (array size limit) which can be change by increasing or decreasing the array size but it wont affect the program
 
 No dynamic memory allocation used
 
